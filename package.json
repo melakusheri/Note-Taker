@@ -1,7 +1,7 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "1. [Title](#Title)\r   2. [Description](#Description)\r   3. [License](#License)\r   4. [Installation](#Installation)\r   5. [Tests](#Tests)\r   6. [Usage](#Usage)\r   7. [Contribution](#Contribution)\r   8. [Github](#Github)\r   9. [E-mail](#Email)",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
