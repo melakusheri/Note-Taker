@@ -35,7 +35,7 @@
   undefined
   
   ## Github
-  undefined
+  https://github.com/melakusheri
   
   ## E-mail
-  melaku@gmail.com
+  mailangels@gmail.com
