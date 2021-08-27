@@ -1,1 +1,1 @@
-wbe: node index.js
+wbe:node server.js

@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "id": 1,
+    "title": "My Monday schedule",
+    "text": "6-10 Class"
+  },
+  {
+    "id": 2,
+    "title": "My Tuesday schedule",
+    "text": "6- 8pm reading basics\n8-10pm homework"
+  },
+  {
+    "id": 3,
+    "title": "My Wednesday schedule",
+    "text": "6-10pm class"
+  },
+  {
+    "id": 4,
+    "title": "My Thursday schedule ",
+    "text": "6-8 watching class videos\n8-10 working on assignement\n"
+  },
+  {
+    "id": 5,
+    "title": "My friday schedule",
+    "text": "6-8pm  Finalizing assignments \n8-10pm  preparation for the next class"
+  }
+
+]
